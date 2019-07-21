@@ -1,5 +1,9 @@
 language: minimal
 
+branches:
+    except:
+        - master
+
 before_deploy:
     - echo $TRAVIS_TAG > .version
     - zip -q -r $TRAVIS_TAG.zip ./def/* .version
