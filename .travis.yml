@@ -1,4 +1,4 @@
-language: generic
+language: minimal
 
 before_deploy:
     - echo $TRAVIS_TAG > .version
