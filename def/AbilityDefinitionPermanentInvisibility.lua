@@ -7,6 +7,7 @@ _G.AbilityDefinitionPermanentInvisibility = AbilityDefinitionPermanentInvisibili
 function AbilityDefinitionPermanentInvisibility:new(id) end
 
 ---setAutoAcquireAttackTargets
+---<**Gho1**>
 ---@param level integer
 ---@param value boolean
 function AbilityDefinitionPermanentInvisibility:setAutoAcquireAttackTargets(level, value) end

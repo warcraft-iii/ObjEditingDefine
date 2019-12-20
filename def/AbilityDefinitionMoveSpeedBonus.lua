@@ -7,6 +7,7 @@ _G.AbilityDefinitionMoveSpeedBonus = AbilityDefinitionMoveSpeedBonus
 function AbilityDefinitionMoveSpeedBonus:new(id) end
 
 ---setMovementSpeedBonus
+---<**Imvb**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionMoveSpeedBonus:setMovementSpeedBonus(level, value) end

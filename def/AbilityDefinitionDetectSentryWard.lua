@@ -7,6 +7,7 @@ _G.AbilityDefinitionDetectSentryWard = AbilityDefinitionDetectSentryWard
 function AbilityDefinitionDetectSentryWard:new(id) end
 
 ---setDetectionType
+---<**Det1**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionDetectSentryWard:setDetectionType(level, value) end

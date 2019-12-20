@@ -7,6 +7,7 @@ _G.AbilityDefinitionVampiricAuracreep = AbilityDefinitionVampiricAuracreep
 function AbilityDefinitionVampiricAuracreep:new(id) end
 
 ---setAttackDamageStolen
+---<**Uav1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionVampiricAuracreep:setAttackDamageStolen(level, value) end

@@ -7,11 +7,13 @@ _G.AbilityDefinitionUnholyFrenzyWarlock = AbilityDefinitionUnholyFrenzyWarlock
 function AbilityDefinitionUnholyFrenzyWarlock:new(id) end
 
 ---setAttackSpeedBonus
+---<**Uhf1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionUnholyFrenzyWarlock:setAttackSpeedBonus(level, value) end
 
 ---setDamageperSecond
+---<**Uhf2**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionUnholyFrenzyWarlock:setDamageperSecond(level, value) end

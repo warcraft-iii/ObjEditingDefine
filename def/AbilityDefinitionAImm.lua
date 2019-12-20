@@ -7,6 +7,7 @@ _G.AbilityDefinitionAImm = AbilityDefinitionAImm
 function AbilityDefinitionAImm:new(id) end
 
 ---setMaxManaGained
+---<**Iman**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionAImm:setMaxManaGained(level, value) end

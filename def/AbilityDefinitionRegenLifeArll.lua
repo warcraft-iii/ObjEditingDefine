@@ -7,6 +7,7 @@ _G.AbilityDefinitionRegenLifeArll = AbilityDefinitionRegenLifeArll
 function AbilityDefinitionRegenLifeArll:new(id) end
 
 ---setHitPointsRegeneratedPerSecond
+---<**Ihpr**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionRegenLifeArll:setHitPointsRegeneratedPerSecond(level, value) end

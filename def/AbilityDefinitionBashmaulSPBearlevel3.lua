@@ -7,6 +7,7 @@ _G.AbilityDefinitionBashmaulSPBearlevel3 = AbilityDefinitionBashmaulSPBearlevel3
 function AbilityDefinitionBashmaulSPBearlevel3:new(id) end
 
 ---setNeverMiss
+---<**Hbh5**>
 ---@param level integer
 ---@param value boolean
 function AbilityDefinitionBashmaulSPBearlevel3:setNeverMiss(level, value) end

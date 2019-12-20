@@ -7,11 +7,13 @@ _G.AbilityDefinitionItemDispelAoeWithCooldown = AbilityDefinitionItemDispelAoeWi
 function AbilityDefinitionItemDispelAoeWithCooldown:new(id) end
 
 ---setDamageToSummonedUnits
+---<**Idid**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionItemDispelAoeWithCooldown:setDamageToSummonedUnits(level, value) end
 
 ---setManaLossPerUnit
+---<**Idim**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionItemDispelAoeWithCooldown:setManaLossPerUnit(level, value) end

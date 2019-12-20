@@ -7,6 +7,7 @@ _G.AbilityDefinitionDeathCoilcreep = AbilityDefinitionDeathCoilcreep
 function AbilityDefinitionDeathCoilcreep:new(id) end
 
 ---setAmountHealedDamaged
+---<**Udc1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionDeathCoilcreep:setAmountHealedDamaged(level, value) end

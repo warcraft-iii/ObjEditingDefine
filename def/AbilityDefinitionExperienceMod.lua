@@ -7,6 +7,7 @@ _G.AbilityDefinitionExperienceMod = AbilityDefinitionExperienceMod
 function AbilityDefinitionExperienceMod:new(id) end
 
 ---setExperienceGained
+---<**Ixpg**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionExperienceMod:setExperienceGained(level, value) end

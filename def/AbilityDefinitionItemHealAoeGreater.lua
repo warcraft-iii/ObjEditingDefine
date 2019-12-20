@@ -7,6 +7,7 @@ _G.AbilityDefinitionItemHealAoeGreater = AbilityDefinitionItemHealAoeGreater
 function AbilityDefinitionItemHealAoeGreater:new(id) end
 
 ---setHitPointsGained
+---<**Ihpg**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionItemHealAoeGreater:setHitPointsGained(level, value) end

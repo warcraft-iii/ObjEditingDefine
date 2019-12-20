@@ -7,11 +7,13 @@ _G.AbilityDefinitionWardenBlink = AbilityDefinitionWardenBlink
 function AbilityDefinitionWardenBlink:new(id) end
 
 ---setMaximumRange
+---<**Ebl1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionWardenBlink:setMaximumRange(level, value) end
 
 ---setMinimumRange
+---<**Ebl2**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionWardenBlink:setMinimumRange(level, value) end

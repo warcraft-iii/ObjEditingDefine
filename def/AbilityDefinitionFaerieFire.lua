@@ -7,11 +7,13 @@ _G.AbilityDefinitionFaerieFire = AbilityDefinitionFaerieFire
 function AbilityDefinitionFaerieFire:new(id) end
 
 ---setAlwaysAutocast
+---<**Fae2**>
 ---@param level integer
 ---@param value boolean
 function AbilityDefinitionFaerieFire:setAlwaysAutocast(level, value) end
 
 ---setDefenseReduction
+---<**Fae1**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionFaerieFire:setDefenseReduction(level, value) end

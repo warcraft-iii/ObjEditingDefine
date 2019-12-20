@@ -7,6 +7,7 @@ _G.AbilityDefinitionCargoHoldEntangledGoldMine = AbilityDefinitionCargoHoldEntan
 function AbilityDefinitionCargoHoldEntangledGoldMine:new(id) end
 
 ---setCargoCapacity
+---<**Car1**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionCargoHoldEntangledGoldMine:setCargoCapacity(level, value) end

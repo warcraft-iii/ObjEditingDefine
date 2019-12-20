@@ -7,6 +7,7 @@ _G.AbilityDefinitionSentryWardAIsw = AbilityDefinitionSentryWardAIsw
 function AbilityDefinitionSentryWardAIsw:new(id) end
 
 ---setWardUnitType
+---<**hwdu**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionSentryWardAIsw:setWardUnitType(level, value) end

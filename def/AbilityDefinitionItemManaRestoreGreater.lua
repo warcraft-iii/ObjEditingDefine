@@ -7,6 +7,7 @@ _G.AbilityDefinitionItemManaRestoreGreater = AbilityDefinitionItemManaRestoreGre
 function AbilityDefinitionItemManaRestoreGreater:new(id) end
 
 ---setManaPointsGained
+---<**Impg**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionItemManaRestoreGreater:setManaPointsGained(level, value) end

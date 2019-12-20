@@ -7,6 +7,7 @@ _G.AbilityDefinitionFireBolt = AbilityDefinitionFireBolt
 function AbilityDefinitionFireBolt:new(id) end
 
 ---setDamage
+---<**Htb1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionFireBolt:setDamage(level, value) end

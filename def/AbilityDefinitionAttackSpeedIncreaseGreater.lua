@@ -7,6 +7,7 @@ _G.AbilityDefinitionAttackSpeedIncreaseGreater = AbilityDefinitionAttackSpeedInc
 function AbilityDefinitionAttackSpeedIncreaseGreater:new(id) end
 
 ---setAttackSpeedIncrease
+---<**Isx1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionAttackSpeedIncreaseGreater:setAttackSpeedIncrease(level, value) end

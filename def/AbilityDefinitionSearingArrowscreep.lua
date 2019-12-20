@@ -7,6 +7,7 @@ _G.AbilityDefinitionSearingArrowscreep = AbilityDefinitionSearingArrowscreep
 function AbilityDefinitionSearingArrowscreep:new(id) end
 
 ---setDamageBonus
+---<**Hfa1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionSearingArrowscreep:setDamageBonus(level, value) end

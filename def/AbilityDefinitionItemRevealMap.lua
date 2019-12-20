@@ -7,6 +7,7 @@ _G.AbilityDefinitionItemRevealMap = AbilityDefinitionItemRevealMap
 function AbilityDefinitionItemRevealMap:new(id) end
 
 ---setDetectionType
+---<**Det1**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionItemRevealMap:setDetectionType(level, value) end

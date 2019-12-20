@@ -7,6 +7,7 @@ _G.AbilityDefinitionAttackBonusAIt6 = AbilityDefinitionAttackBonusAIt6
 function AbilityDefinitionAttackBonusAIt6:new(id) end
 
 ---setAttackBonus
+---<**Iatt**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionAttackBonusAIt6:setAttackBonus(level, value) end

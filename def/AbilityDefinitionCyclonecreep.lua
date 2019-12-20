@@ -7,6 +7,7 @@ _G.AbilityDefinitionCyclonecreep = AbilityDefinitionCyclonecreep
 function AbilityDefinitionCyclonecreep:new(id) end
 
 ---setCanBeDispelled
+---<**cyc1**>
 ---@param level integer
 ---@param value boolean
 function AbilityDefinitionCyclonecreep:setCanBeDispelled(level, value) end

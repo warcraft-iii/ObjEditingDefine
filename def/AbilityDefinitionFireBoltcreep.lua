@@ -7,6 +7,7 @@ _G.AbilityDefinitionFireBoltcreep = AbilityDefinitionFireBoltcreep
 function AbilityDefinitionFireBoltcreep:new(id) end
 
 ---setDamage
+---<**Htb1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionFireBoltcreep:setDamage(level, value) end

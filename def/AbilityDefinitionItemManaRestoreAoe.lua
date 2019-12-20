@@ -7,6 +7,7 @@ _G.AbilityDefinitionItemManaRestoreAoe = AbilityDefinitionItemManaRestoreAoe
 function AbilityDefinitionItemManaRestoreAoe:new(id) end
 
 ---setManaPointsGained
+---<**Impg**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionItemManaRestoreAoe:setManaPointsGained(level, value) end

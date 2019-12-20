@@ -7,6 +7,7 @@ _G.AbilityDefinitionKeeperoftheGroveEntanglingRoots = AbilityDefinitionKeeperoft
 function AbilityDefinitionKeeperoftheGroveEntanglingRoots:new(id) end
 
 ---setDamageperSecond
+---<**Eer1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionKeeperoftheGroveEntanglingRoots:setDamageperSecond(level, value) end

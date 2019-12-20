@@ -7,6 +7,7 @@ _G.AbilityDefinitionAntimagicShieldMatrix = AbilityDefinitionAntimagicShieldMatr
 function AbilityDefinitionAntimagicShieldMatrix:new(id) end
 
 ---setManaLoss
+---<**Ams4**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionAntimagicShieldMatrix:setManaLoss(level, value) end

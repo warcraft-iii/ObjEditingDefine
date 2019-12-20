@@ -7,6 +7,7 @@ _G.AbilityDefinitionTankUpgrade = AbilityDefinitionTankUpgrade
 function AbilityDefinitionTankUpgrade:new(id) end
 
 ---setNewUnitType
+---<**Cha1**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionTankUpgrade:setNewUnitType(level, value) end

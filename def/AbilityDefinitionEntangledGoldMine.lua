@@ -7,11 +7,13 @@ _G.AbilityDefinitionEntangledGoldMine = AbilityDefinitionEntangledGoldMine
 function AbilityDefinitionEntangledGoldMine:new(id) end
 
 ---setIntervalDuration
+---<**Egm2**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionEntangledGoldMine:setIntervalDuration(level, value) end
 
 ---setGoldperInterval
+---<**Egm1**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionEntangledGoldMine:setGoldperInterval(level, value) end

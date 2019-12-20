@@ -7,6 +7,7 @@ _G.AbilityDefinitionBashBeastmasterBear = AbilityDefinitionBashBeastmasterBear
 function AbilityDefinitionBashBeastmasterBear:new(id) end
 
 ---setNeverMiss
+---<**Hbh5**>
 ---@param level integer
 ---@param value boolean
 function AbilityDefinitionBashBeastmasterBear:setNeverMiss(level, value) end

@@ -7,6 +7,7 @@ _G.AbilityDefinitionLightningShield = AbilityDefinitionLightningShield
 function AbilityDefinitionLightningShield:new(id) end
 
 ---setDamageperSecond
+---<**Lsh1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionLightningShield:setDamageperSecond(level, value) end

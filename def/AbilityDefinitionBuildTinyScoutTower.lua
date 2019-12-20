@@ -7,6 +7,7 @@ _G.AbilityDefinitionBuildTinyScoutTower = AbilityDefinitionBuildTinyScoutTower
 function AbilityDefinitionBuildTinyScoutTower:new(id) end
 
 ---setUnitCreatedperplayerrace
+---<**Ibl1**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionBuildTinyScoutTower:setUnitCreatedperplayerrace(level, value) end

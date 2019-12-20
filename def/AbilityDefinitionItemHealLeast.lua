@@ -7,6 +7,7 @@ _G.AbilityDefinitionItemHealLeast = AbilityDefinitionItemHealLeast
 function AbilityDefinitionItemHealLeast:new(id) end
 
 ---setHitPointsGained
+---<**Ihpg**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionItemHealLeast:setHitPointsGained(level, value) end

@@ -7,11 +7,13 @@ _G.AbilityDefinitionItemTownPortal = AbilityDefinitionItemTownPortal
 function AbilityDefinitionItemTownPortal:new(id) end
 
 ---setMaximumNumberofUnits
+---<**Itpm**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionItemTownPortal:setMaximumNumberofUnits(level, value) end
 
 ---setUseTeleportClustering
+---<**Itp2**>
 ---@param level integer
 ---@param value boolean
 function AbilityDefinitionItemTownPortal:setUseTeleportClustering(level, value) end

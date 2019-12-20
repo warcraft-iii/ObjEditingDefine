@@ -7,11 +7,13 @@ _G.AbilityDefinitionFortificationGlyph = AbilityDefinitionFortificationGlyph
 function AbilityDefinitionFortificationGlyph:new(id) end
 
 ---setUpgradeLevels
+---<**Igl1**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionFortificationGlyph:setUpgradeLevels(level, value) end
 
 ---setUpgradeType
+---<**Iglu**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionFortificationGlyph:setUpgradeType(level, value) end

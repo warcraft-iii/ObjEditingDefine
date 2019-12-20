@@ -7,11 +7,13 @@ _G.AbilityDefinitionSummonHeadhunteritem = AbilityDefinitionSummonHeadhunteritem
 function AbilityDefinitionSummonHeadhunteritem:new(id) end
 
 ---setSummonedUnit
+---<**Osf1**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionSummonHeadhunteritem:setSummonedUnit(level, value) end
 
 ---setNumberofSummonedUnits
+---<**Osf2**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionSummonHeadhunteritem:setNumberofSummonedUnits(level, value) end

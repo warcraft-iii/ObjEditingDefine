@@ -7,6 +7,7 @@ _G.AbilityDefinitionDetectMagicSentinel = AbilityDefinitionDetectMagicSentinel
 function AbilityDefinitionDetectMagicSentinel:new(id) end
 
 ---setDetectionType
+---<**Det1**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionDetectMagicSentinel:setDetectionType(level, value) end

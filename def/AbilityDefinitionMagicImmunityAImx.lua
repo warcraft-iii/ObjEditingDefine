@@ -7,6 +7,7 @@ _G.AbilityDefinitionMagicImmunityAImx = AbilityDefinitionMagicImmunityAImx
 function AbilityDefinitionMagicImmunityAImx:new(id) end
 
 ---setMagicDamageFactor
+---<**mim1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionMagicImmunityAImx:setMagicDamageFactor(level, value) end

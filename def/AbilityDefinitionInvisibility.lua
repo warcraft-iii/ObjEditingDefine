@@ -7,6 +7,7 @@ _G.AbilityDefinitionInvisibility = AbilityDefinitionInvisibility
 function AbilityDefinitionInvisibility:new(id) end
 
 ---setTransitionTimeseconds
+---<**Ivs1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionInvisibility:setTransitionTimeseconds(level, value) end

@@ -7,6 +7,7 @@ _G.AbilityDefinitionChaosCargoLoad = AbilityDefinitionChaosCargoLoad
 function AbilityDefinitionChaosCargoLoad:new(id) end
 
 ---setUnitTypeAllowed
+---<**Chl1**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionChaosCargoLoad:setUnitTypeAllowed(level, value) end

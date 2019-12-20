@@ -7,6 +7,7 @@ _G.AbilityDefinitionBerserkerUpgrade = AbilityDefinitionBerserkerUpgrade
 function AbilityDefinitionBerserkerUpgrade:new(id) end
 
 ---setNewUnitType
+---<**Cha1**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionBerserkerUpgrade:setNewUnitType(level, value) end

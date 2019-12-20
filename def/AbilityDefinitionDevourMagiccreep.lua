@@ -7,6 +7,7 @@ _G.AbilityDefinitionDevourMagiccreep = AbilityDefinitionDevourMagiccreep
 function AbilityDefinitionDevourMagiccreep:new(id) end
 
 ---setIgnoreFriendlyBuffs
+---<**dvm6**>
 ---@param level integer
 ---@param value boolean
 function AbilityDefinitionDevourMagiccreep:setIgnoreFriendlyBuffs(level, value) end

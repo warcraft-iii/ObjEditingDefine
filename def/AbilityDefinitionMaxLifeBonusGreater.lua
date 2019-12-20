@@ -7,6 +7,7 @@ _G.AbilityDefinitionMaxLifeBonusGreater = AbilityDefinitionMaxLifeBonusGreater
 function AbilityDefinitionMaxLifeBonusGreater:new(id) end
 
 ---setMaxLifeGained
+---<**Ilif**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionMaxLifeBonusGreater:setMaxLifeGained(level, value) end

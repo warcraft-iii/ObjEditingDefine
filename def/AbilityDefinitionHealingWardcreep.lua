@@ -7,6 +7,7 @@ _G.AbilityDefinitionHealingWardcreep = AbilityDefinitionHealingWardcreep
 function AbilityDefinitionHealingWardcreep:new(id) end
 
 ---setWardUnitType
+---<**hwdu**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionHealingWardcreep:setWardUnitType(level, value) end

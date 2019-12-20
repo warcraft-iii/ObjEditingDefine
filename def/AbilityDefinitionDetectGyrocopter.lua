@@ -7,6 +7,7 @@ _G.AbilityDefinitionDetectGyrocopter = AbilityDefinitionDetectGyrocopter
 function AbilityDefinitionDetectGyrocopter:new(id) end
 
 ---setDetectionType
+---<**Det1**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionDetectGyrocopter:setDetectionType(level, value) end

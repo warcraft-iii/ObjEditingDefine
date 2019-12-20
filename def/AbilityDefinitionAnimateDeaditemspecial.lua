@@ -7,6 +7,7 @@ _G.AbilityDefinitionAnimateDeaditemspecial = AbilityDefinitionAnimateDeaditemspe
 function AbilityDefinitionAnimateDeaditemspecial:new(id) end
 
 ---setInheritUpgrades
+---<**Uan3**>
 ---@param level integer
 ---@param value boolean
 function AbilityDefinitionAnimateDeaditemspecial:setInheritUpgrades(level, value) end

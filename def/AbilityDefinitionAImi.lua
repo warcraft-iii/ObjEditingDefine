@@ -7,6 +7,7 @@ _G.AbilityDefinitionAImi = AbilityDefinitionAImi
 function AbilityDefinitionAImi:new(id) end
 
 ---setMaxLifeGained
+---<**Ilif**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionAImi:setMaxLifeGained(level, value) end

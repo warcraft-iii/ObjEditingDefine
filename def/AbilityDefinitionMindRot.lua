@@ -7,6 +7,7 @@ _G.AbilityDefinitionMindRot = AbilityDefinitionMindRot
 function AbilityDefinitionMindRot:new(id) end
 
 ---setManaDrainedperSecond
+---<**Nmr1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionMindRot:setManaDrainedperSecond(level, value) end

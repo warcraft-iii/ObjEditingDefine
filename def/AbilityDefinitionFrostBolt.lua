@@ -7,6 +7,7 @@ _G.AbilityDefinitionFrostBolt = AbilityDefinitionFrostBolt
 function AbilityDefinitionFrostBolt:new(id) end
 
 ---setDamage
+---<**Htb1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionFrostBolt:setDamage(level, value) end

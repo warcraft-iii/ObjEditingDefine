@@ -7,6 +7,7 @@ _G.AbilityDefinitionPlagueToss = AbilityDefinitionPlagueToss
 function AbilityDefinitionPlagueToss:new(id) end
 
 ---setWardUnitType
+---<**hwdu**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionPlagueToss:setWardUnitType(level, value) end

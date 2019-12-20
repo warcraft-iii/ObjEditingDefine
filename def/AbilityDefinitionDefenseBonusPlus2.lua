@@ -7,6 +7,7 @@ _G.AbilityDefinitionDefenseBonusPlus2 = AbilityDefinitionDefenseBonusPlus2
 function AbilityDefinitionDefenseBonusPlus2:new(id) end
 
 ---setDefenseBonus
+---<**Idef**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionDefenseBonusPlus2:setDefenseBonus(level, value) end

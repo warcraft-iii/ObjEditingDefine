@@ -7,6 +7,7 @@ _G.AbilityDefinitionLevelMod = AbilityDefinitionLevelMod
 function AbilityDefinitionLevelMod:new(id) end
 
 ---setLevelsGained
+---<**Ilev**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionLevelMod:setLevelsGained(level, value) end

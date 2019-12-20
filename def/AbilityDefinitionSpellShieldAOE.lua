@@ -7,6 +7,7 @@ _G.AbilityDefinitionSpellShieldAOE = AbilityDefinitionSpellShieldAOE
 function AbilityDefinitionSpellShieldAOE:new(id) end
 
 ---setShieldCooldownTime
+---<**Nse1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionSpellShieldAOE:setShieldCooldownTime(level, value) end

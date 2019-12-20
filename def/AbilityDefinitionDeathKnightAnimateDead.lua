@@ -7,16 +7,19 @@ _G.AbilityDefinitionDeathKnightAnimateDead = AbilityDefinitionDeathKnightAnimate
 function AbilityDefinitionDeathKnightAnimateDead:new(id) end
 
 ---setRaisedUnitsAreInvulnerable
+---<**Hre2**>
 ---@param level integer
 ---@param value boolean
 function AbilityDefinitionDeathKnightAnimateDead:setRaisedUnitsAreInvulnerable(level, value) end
 
 ---setInheritUpgrades
+---<**Uan3**>
 ---@param level integer
 ---@param value boolean
 function AbilityDefinitionDeathKnightAnimateDead:setInheritUpgrades(level, value) end
 
 ---setNumberofCorpsesRaised
+---<**Uan1**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionDeathKnightAnimateDead:setNumberofCorpsesRaised(level, value) end

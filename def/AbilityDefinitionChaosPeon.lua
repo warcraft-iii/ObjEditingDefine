@@ -7,6 +7,7 @@ _G.AbilityDefinitionChaosPeon = AbilityDefinitionChaosPeon
 function AbilityDefinitionChaosPeon:new(id) end
 
 ---setNewUnitType
+---<**Cha1**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionChaosPeon:setNewUnitType(level, value) end

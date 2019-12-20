@@ -7,6 +7,7 @@ _G.AbilityDefinitionPaladinDivineShield = AbilityDefinitionPaladinDivineShield
 function AbilityDefinitionPaladinDivineShield:new(id) end
 
 ---setCanDeactivate
+---<**Hds1**>
 ---@param level integer
 ---@param value boolean
 function AbilityDefinitionPaladinDivineShield:setCanDeactivate(level, value) end

@@ -7,6 +7,7 @@ _G.AbilityDefinitionPermanentHitpointBonusfromchargeditem = AbilityDefinitionPer
 function AbilityDefinitionPermanentHitpointBonusfromchargeditem:new(id) end
 
 ---setMaxLifeGained
+---<**Ilif**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionPermanentHitpointBonusfromchargeditem:setMaxLifeGained(level, value) end

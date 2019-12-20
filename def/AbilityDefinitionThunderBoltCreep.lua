@@ -7,6 +7,7 @@ _G.AbilityDefinitionThunderBoltCreep = AbilityDefinitionThunderBoltCreep
 function AbilityDefinitionThunderBoltCreep:new(id) end
 
 ---setDamage
+---<**Ctb1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionThunderBoltCreep:setDamage(level, value) end

@@ -7,6 +7,7 @@ _G.AbilityDefinitionMaxManaBonusLeast = AbilityDefinitionMaxManaBonusLeast
 function AbilityDefinitionMaxManaBonusLeast:new(id) end
 
 ---setMaxManaGained
+---<**Iman**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionMaxManaBonusLeast:setMaxManaGained(level, value) end

@@ -7,6 +7,7 @@ _G.AbilityDefinitionItemRegenMana = AbilityDefinitionItemRegenMana
 function AbilityDefinitionItemRegenMana:new(id) end
 
 ---setManaRegenerationBonusasfractionofnormal
+---<**Imrp**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionItemRegenMana:setManaRegenerationBonusasfractionofnormal(level, value) end

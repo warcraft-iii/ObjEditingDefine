@@ -7,6 +7,7 @@ _G.AbilityDefinitionHealCreepNormal = AbilityDefinitionHealCreepNormal
 function AbilityDefinitionHealCreepNormal:new(id) end
 
 ---setHitPointsGained
+---<**Hea1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionHealCreepNormal:setHitPointsGained(level, value) end

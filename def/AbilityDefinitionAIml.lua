@@ -7,6 +7,7 @@ _G.AbilityDefinitionAIml = AbilityDefinitionAIml
 function AbilityDefinitionAIml:new(id) end
 
 ---setMaxLifeGained
+---<**Ilif**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionAIml:setMaxLifeGained(level, value) end

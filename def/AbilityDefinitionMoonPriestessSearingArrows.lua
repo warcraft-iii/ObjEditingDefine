@@ -7,6 +7,7 @@ _G.AbilityDefinitionMoonPriestessSearingArrows = AbilityDefinitionMoonPriestessS
 function AbilityDefinitionMoonPriestessSearingArrows:new(id) end
 
 ---setDamageBonus
+---<**Hfa1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionMoonPriestessSearingArrows:setDamageBonus(level, value) end

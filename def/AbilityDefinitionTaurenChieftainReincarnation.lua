@@ -7,6 +7,7 @@ _G.AbilityDefinitionTaurenChieftainReincarnation = AbilityDefinitionTaurenChieft
 function AbilityDefinitionTaurenChieftainReincarnation:new(id) end
 
 ---setReincarnationDelay
+---<**Ore1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionTaurenChieftainReincarnation:setReincarnationDelay(level, value) end

@@ -7,6 +7,7 @@ _G.AbilityDefinitionDustofAppearance = AbilityDefinitionDustofAppearance
 function AbilityDefinitionDustofAppearance:new(id) end
 
 ---setDetectionType
+---<**Det1**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionDustofAppearance:setDetectionType(level, value) end

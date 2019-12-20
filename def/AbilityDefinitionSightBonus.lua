@@ -7,6 +7,7 @@ _G.AbilityDefinitionSightBonus = AbilityDefinitionSightBonus
 function AbilityDefinitionSightBonus:new(id) end
 
 ---setSightRangeBonus
+---<**Isib**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionSightBonus:setSightRangeBonus(level, value) end

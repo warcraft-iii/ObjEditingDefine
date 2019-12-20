@@ -7,11 +7,13 @@ _G.AbilityDefinitionReturnLumber = AbilityDefinitionReturnLumber
 function AbilityDefinitionReturnLumber:new(id) end
 
 ---setAcceptsGold
+---<**Rtn1**>
 ---@param level integer
 ---@param value boolean
 function AbilityDefinitionReturnLumber:setAcceptsGold(level, value) end
 
 ---setAcceptsLumber
+---<**Rtn2**>
 ---@param level integer
 ---@param value boolean
 function AbilityDefinitionReturnLumber:setAcceptsLumber(level, value) end

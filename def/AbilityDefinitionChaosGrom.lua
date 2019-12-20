@@ -7,6 +7,7 @@ _G.AbilityDefinitionChaosGrom = AbilityDefinitionChaosGrom
 function AbilityDefinitionChaosGrom:new(id) end
 
 ---setNewUnitType
+---<**Cha1**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionChaosGrom:setNewUnitType(level, value) end

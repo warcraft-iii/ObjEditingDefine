@@ -7,11 +7,13 @@ _G.AbilityDefinitionSpawnHydraHatchling = AbilityDefinitionSpawnHydraHatchling
 function AbilityDefinitionSpawnHydraHatchling:new(id) end
 
 ---setNumberofUnits
+---<**Sod1**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionSpawnHydraHatchling:setNumberofUnits(level, value) end
 
 ---setUnitType
+---<**Sod2**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionSpawnHydraHatchling:setUnitType(level, value) end

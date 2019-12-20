@@ -7,11 +7,13 @@ _G.AbilityDefinitionItemAuraDevotion = AbilityDefinitionItemAuraDevotion
 function AbilityDefinitionItemAuraDevotion:new(id) end
 
 ---setPercentBonus
+---<**Had2**>
 ---@param level integer
 ---@param value boolean
 function AbilityDefinitionItemAuraDevotion:setPercentBonus(level, value) end
 
 ---setArmorBonus
+---<**Had1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionItemAuraDevotion:setArmorBonus(level, value) end

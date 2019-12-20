@@ -7,6 +7,7 @@ _G.AbilityDefinitionCursecreep = AbilityDefinitionCursecreep
 function AbilityDefinitionCursecreep:new(id) end
 
 ---setChancetoMiss
+---<**Crs**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionCursecreep:setChancetoMiss(level, value) end

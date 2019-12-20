@@ -7,6 +7,7 @@ _G.AbilityDefinitionGiveGold = AbilityDefinitionGiveGold
 function AbilityDefinitionGiveGold:new(id) end
 
 ---setGoldGiven
+---<**Igol**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionGiveGold:setGoldGiven(level, value) end

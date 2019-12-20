@@ -7,11 +7,13 @@ _G.AbilityDefinitionCoupleHippogryph = AbilityDefinitionCoupleHippogryph
 function AbilityDefinitionCoupleHippogryph:new(id) end
 
 ---setResultingUnitType
+---<**coau**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionCoupleHippogryph:setResultingUnitType(level, value) end
 
 ---setPartnerUnitType
+---<**coa1**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionCoupleHippogryph:setPartnerUnitType(level, value) end

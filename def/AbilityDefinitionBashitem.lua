@@ -7,6 +7,7 @@ _G.AbilityDefinitionBashitem = AbilityDefinitionBashitem
 function AbilityDefinitionBashitem:new(id) end
 
 ---setNeverMiss
+---<**Hbh5**>
 ---@param level integer
 ---@param value boolean
 function AbilityDefinitionBashitem:setNeverMiss(level, value) end

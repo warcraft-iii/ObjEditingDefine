@@ -7,6 +7,7 @@ _G.AbilityDefinitionAttackMod = AbilityDefinitionAttackMod
 function AbilityDefinitionAttackMod:new(id) end
 
 ---setAttackModification
+---<**Iaa1**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionAttackMod:setAttackModification(level, value) end

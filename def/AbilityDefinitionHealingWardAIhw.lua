@@ -7,6 +7,7 @@ _G.AbilityDefinitionHealingWardAIhw = AbilityDefinitionHealingWardAIhw
 function AbilityDefinitionHealingWardAIhw:new(id) end
 
 ---setWardUnitType
+---<**hwdu**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionHealingWardAIhw:setWardUnitType(level, value) end

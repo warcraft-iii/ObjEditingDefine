@@ -7,11 +7,13 @@ _G.AbilityDefinitionFreezeDamageBonus = AbilityDefinitionFreezeDamageBonus
 function AbilityDefinitionFreezeDamageBonus:new(id) end
 
 ---setEnabledAttackIndex
+---<**Iob5**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionFreezeDamageBonus:setEnabledAttackIndex(level, value) end
 
 ---setDamageBonus
+---<**Idam**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionFreezeDamageBonus:setDamageBonus(level, value) end

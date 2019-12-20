@@ -7,6 +7,7 @@ _G.AbilityDefinitionGiveLumber = AbilityDefinitionGiveLumber
 function AbilityDefinitionGiveLumber:new(id) end
 
 ---setLumberGiven
+---<**Ilum**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionGiveLumber:setLumberGiven(level, value) end

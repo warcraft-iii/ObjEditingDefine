@@ -7,6 +7,7 @@ _G.AbilityDefinitionMalganisSoulPreservation = AbilityDefinitionMalganisSoulPres
 function AbilityDefinitionMalganisSoulPreservation:new(id) end
 
 ---setUnittoPreserve
+---<**Nsl1**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionMalganisSoulPreservation:setUnittoPreserve(level, value) end

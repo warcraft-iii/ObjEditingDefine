@@ -7,6 +7,7 @@ _G.AbilityDefinitionLoad = AbilityDefinitionLoad
 function AbilityDefinitionLoad:new(id) end
 
 ---setAllowedUnitType
+---<**Loa1**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionLoad:setAllowedUnitType(level, value) end

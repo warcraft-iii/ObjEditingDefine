@@ -7,6 +7,7 @@ _G.AbilityDefinitionSeaWitchTornado = AbilityDefinitionSeaWitchTornado
 function AbilityDefinitionSeaWitchTornado:new(id) end
 
 ---setSummonedUnitType
+---<**Ntou**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionSeaWitchTornado:setSummonedUnitType(level, value) end

@@ -7,6 +7,7 @@ _G.AbilityDefinitionAcha = AbilityDefinitionAcha
 function AbilityDefinitionAcha:new(id) end
 
 ---setNewUnitType
+---<**Cha1**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionAcha:setNewUnitType(level, value) end

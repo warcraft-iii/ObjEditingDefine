@@ -7,6 +7,7 @@ _G.AbilityDefinitionDeathKnightDeathCoil = AbilityDefinitionDeathKnightDeathCoil
 function AbilityDefinitionDeathKnightDeathCoil:new(id) end
 
 ---setAmountHealedDamaged
+---<**Udc1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionDeathKnightDeathCoil:setAmountHealedDamaged(level, value) end

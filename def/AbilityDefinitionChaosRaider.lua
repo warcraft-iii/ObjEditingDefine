@@ -7,6 +7,7 @@ _G.AbilityDefinitionChaosRaider = AbilityDefinitionChaosRaider
 function AbilityDefinitionChaosRaider:new(id) end
 
 ---setNewUnitType
+---<**Cha1**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionChaosRaider:setNewUnitType(level, value) end

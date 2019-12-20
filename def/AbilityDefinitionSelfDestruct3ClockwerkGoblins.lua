@@ -7,6 +7,7 @@ _G.AbilityDefinitionSelfDestruct3ClockwerkGoblins = AbilityDefinitionSelfDestruc
 function AbilityDefinitionSelfDestruct3ClockwerkGoblins:new(id) end
 
 ---setExplodesonDeath
+---<**Sds6**>
 ---@param level integer
 ---@param value boolean
 function AbilityDefinitionSelfDestruct3ClockwerkGoblins:setExplodesonDeath(level, value) end

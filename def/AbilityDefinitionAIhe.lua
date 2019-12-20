@@ -7,6 +7,7 @@ _G.AbilityDefinitionAIhe = AbilityDefinitionAIhe
 function AbilityDefinitionAIhe:new(id) end
 
 ---setHitPointsGained
+---<**Ihpg**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionAIhe:setHitPointsGained(level, value) end

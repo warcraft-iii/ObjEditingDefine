@@ -7,11 +7,13 @@ _G.AbilityDefinitionPIlotTankRifleman = AbilityDefinitionPIlotTankRifleman
 function AbilityDefinitionPIlotTankRifleman:new(id) end
 
 ---setConvertedUnitType
+---<**tpi2**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionPIlotTankRifleman:setConvertedUnitType(level, value) end
 
 ---setRequiredUnitType
+---<**tpi1**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionPIlotTankRifleman:setRequiredUnitType(level, value) end

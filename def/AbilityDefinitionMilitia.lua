@@ -7,11 +7,13 @@ _G.AbilityDefinitionMilitia = AbilityDefinitionMilitia
 function AbilityDefinitionMilitia:new(id) end
 
 ---setAlternateFormUnit
+---<**Mil2**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionMilitia:setAlternateFormUnit(level, value) end
 
 ---setNormalFormUnit
+---<**Mil1**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionMilitia:setNormalFormUnit(level, value) end

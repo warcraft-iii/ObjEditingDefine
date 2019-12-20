@@ -7,6 +7,7 @@ _G.AbilityDefinitionItemManaRestoreLesser = AbilityDefinitionItemManaRestoreLess
 function AbilityDefinitionItemManaRestoreLesser:new(id) end
 
 ---setManaPointsGained
+---<**Impg**>
 ---@param level integer
 ---@param value integer
 function AbilityDefinitionItemManaRestoreLesser:setManaPointsGained(level, value) end

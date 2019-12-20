@@ -7,6 +7,7 @@ _G.AbilityDefinitionItemSpeed = AbilityDefinitionItemSpeed
 function AbilityDefinitionItemSpeed:new(id) end
 
 ---setMovementSpeedIncrease
+---<**Ispi**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionItemSpeed:setMovementSpeedIncrease(level, value) end

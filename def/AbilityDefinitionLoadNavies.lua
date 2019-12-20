@@ -7,6 +7,7 @@ _G.AbilityDefinitionLoadNavies = AbilityDefinitionLoadNavies
 function AbilityDefinitionLoadNavies:new(id) end
 
 ---setAllowedUnitType
+---<**Loa1**>
 ---@param level integer
 ---@param value string
 function AbilityDefinitionLoadNavies:setAllowedUnitType(level, value) end

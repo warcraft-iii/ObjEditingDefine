@@ -7,6 +7,7 @@ _G.AbilityDefinitionRuneofSpiritLink = AbilityDefinitionRuneofSpiritLink
 function AbilityDefinitionRuneofSpiritLink:new(id) end
 
 ---setDistributedDamageFactor
+---<**spl1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionRuneofSpiritLink:setDistributedDamageFactor(level, value) end
