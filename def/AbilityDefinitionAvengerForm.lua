@@ -27,7 +27,7 @@ function AbilityDefinitionAvengerForm:setAltitudeAdjustmentDuration(level, value
 ---setMorphingFlags
 ---<**Eme2**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionAvengerForm:setMorphingFlags(level, value) end
 
 ---setLifeRegenerationRatepersecond

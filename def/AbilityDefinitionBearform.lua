@@ -27,7 +27,7 @@ function AbilityDefinitionBearform:setAltitudeAdjustmentDuration(level, value) e
 ---setMorphingFlags
 ---<**Eme2**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionBearform:setMorphingFlags(level, value) end
 
 ---setAlternateFormUnit

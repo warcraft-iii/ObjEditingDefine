@@ -27,7 +27,7 @@ function AbilityDefinitionDemonHunterMetamorphosis:setAltitudeAdjustmentDuration
 ---setMorphingFlags
 ---<**Eme2**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionDemonHunterMetamorphosis:setMorphingFlags(level, value) end
 
 ---setAlternateFormHitPointBonus

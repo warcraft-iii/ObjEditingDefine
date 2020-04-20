@@ -27,7 +27,7 @@ function AbilityDefinitionRavenFormDruidoftheTalon:setAltitudeAdjustmentDuration
 ---setMorphingFlags
 ---<**Eme2**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionRavenFormDruidoftheTalon:setMorphingFlags(level, value) end
 
 ---setAlternateFormUnit

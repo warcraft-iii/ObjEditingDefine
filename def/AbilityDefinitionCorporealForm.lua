@@ -27,7 +27,7 @@ function AbilityDefinitionCorporealForm:setAltitudeAdjustmentDuration(level, val
 ---setMorphingFlags
 ---<**Eme2**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionCorporealForm:setMorphingFlags(level, value) end
 
 ---setAlternateFormUnit

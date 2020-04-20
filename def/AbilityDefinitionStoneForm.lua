@@ -27,7 +27,7 @@ function AbilityDefinitionStoneForm:setAltitudeAdjustmentDuration(level, value) 
 ---setMorphingFlags
 ---<**Eme2**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionStoneForm:setMorphingFlags(level, value) end
 
 ---setLifeRegenerationRatepersecond

@@ -37,11 +37,23 @@ function BuffDefinition:setIconNormal(level, value) end
 ---@param value string
 function BuffDefinition:setCaster(level, value) end
 
+---setTarget
+---<**ftat**>
+---@param level integer
+---@param value string
+function BuffDefinition:setTarget(level, value) end
+
 ---setArtTarget
 ---<**ftat**>
 ---@param level integer
 ---@param value string
 function BuffDefinition:setArtTarget(level, value) end
+
+---setSpecial
+---<**fsat**>
+---@param level integer
+---@param value string
+function BuffDefinition:setSpecial(level, value) end
 
 ---setArtSpecial
 ---<**fsat**>

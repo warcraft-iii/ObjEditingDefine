@@ -39,7 +39,7 @@ function AbilityDefinitionAlchemistChemicalRage:setAltitudeAdjustmentDuration(le
 ---setMorphingFlags
 ---<**Eme2**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionAlchemistChemicalRage:setMorphingFlags(level, value) end
 
 ---setAlternateFormUnit

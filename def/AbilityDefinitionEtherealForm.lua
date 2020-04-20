@@ -27,7 +27,7 @@ function AbilityDefinitionEtherealForm:setAltitudeAdjustmentDuration(level, valu
 ---setMorphingFlags
 ---<**Eme2**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionEtherealForm:setMorphingFlags(level, value) end
 
 ---setAlternateFormUnit

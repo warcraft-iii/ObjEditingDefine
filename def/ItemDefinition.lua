@@ -151,3 +151,8 @@ function ItemDefinition:setNumberofCharges(data) end
 ---<**iico**>
 ---@param data string
 function ItemDefinition:setInterfaceIcon(data) end
+
+---setMaxStack
+---<**ista**>
+---@param data integer
+function ItemDefinition:setMaxStack(data) end

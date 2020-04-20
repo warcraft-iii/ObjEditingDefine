@@ -15,7 +15,7 @@ function AbilityDefinitionPoisonArrows:setAttackSpeedFactor(level, value) end
 ---setStackingType
 ---<**Poa5**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionPoisonArrows:setStackingType(level, value) end
 
 ---setExtraDamage

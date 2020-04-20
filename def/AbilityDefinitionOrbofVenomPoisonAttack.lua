@@ -15,7 +15,7 @@ function AbilityDefinitionOrbofVenomPoisonAttack:setAttackSpeedFactor(level, val
 ---setStackingType
 ---<**Poi4**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionOrbofVenomPoisonAttack:setStackingType(level, value) end
 
 ---setDamageperSecond

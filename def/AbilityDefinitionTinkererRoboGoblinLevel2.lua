@@ -33,7 +33,7 @@ function AbilityDefinitionTinkererRoboGoblinLevel2:setAltitudeAdjustmentDuration
 ---setMorphingFlags
 ---<**Eme2**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionTinkererRoboGoblinLevel2:setMorphingFlags(level, value) end
 
 ---setDefenseBonus

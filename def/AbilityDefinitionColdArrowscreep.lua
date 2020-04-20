@@ -9,7 +9,7 @@ function AbilityDefinitionColdArrowscreep:new(id) end
 ---setStackFlags
 ---<**Hca4**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionColdArrowscreep:setStackFlags(level, value) end
 
 ---setExtraDamage

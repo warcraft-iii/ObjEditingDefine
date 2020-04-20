@@ -27,7 +27,7 @@ function AbilityDefinitionIllidanMetamorphosis:setAltitudeAdjustmentDuration(lev
 ---setMorphingFlags
 ---<**Eme2**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionIllidanMetamorphosis:setMorphingFlags(level, value) end
 
 ---setAlternateFormHitPointBonus

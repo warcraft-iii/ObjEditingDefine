@@ -27,7 +27,7 @@ function AbilityDefinitionBurrowscarablvl3:setAltitudeAdjustmentDuration(level, 
 ---setMorphingFlags
 ---<**Eme2**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionBurrowscarablvl3:setMorphingFlags(level, value) end
 
 ---setAlternateFormUnit

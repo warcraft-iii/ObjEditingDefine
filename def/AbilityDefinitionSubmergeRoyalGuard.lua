@@ -21,7 +21,7 @@ function AbilityDefinitionSubmergeRoyalGuard:setAltitudeAdjustmentDuration(level
 ---setMorphingFlags
 ---<**Eme2**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionSubmergeRoyalGuard:setMorphingFlags(level, value) end
 
 ---setAlternateFormUnit

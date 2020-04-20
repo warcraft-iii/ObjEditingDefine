@@ -15,7 +15,7 @@ function AbilityDefinitionVenomSpears:setAttackSpeedFactor(level, value) end
 ---setStackingType
 ---<**Poi4**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionVenomSpears:setStackingType(level, value) end
 
 ---setDamageperSecond

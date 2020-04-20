@@ -9,7 +9,7 @@ function AbilityDefinitionSeaWitchFrostArrows:new(id) end
 ---setStackFlags
 ---<**Hca4**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionSeaWitchFrostArrows:setStackFlags(level, value) end
 
 ---setExtraDamage

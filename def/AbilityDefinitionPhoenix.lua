@@ -27,7 +27,7 @@ function AbilityDefinitionPhoenix:setAltitudeAdjustmentDuration(level, value) en
 ---setMorphingFlags
 ---<**Eme2**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionPhoenix:setMorphingFlags(level, value) end
 
 ---setAlternateFormUnit

@@ -36,8 +36,3 @@ function UnitOrHeroDefinition:setGroupSeparationEnabled(data) end
 ---<**ufor**>
 ---@param data integer
 function UnitOrHeroDefinition:setFormationRank(data) end
-
----setStructuresBuilt
----<**ubui**>
----@param data string
-function UnitOrHeroDefinition:setStructuresBuilt(data) end

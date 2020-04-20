@@ -27,7 +27,7 @@ function AbilityDefinitionAspx:setAltitudeAdjustmentDuration(level, value) end
 ---setMorphingFlags
 ---<**Eme2**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionAspx:setMorphingFlags(level, value) end
 
 ---setAlternateFormUnit

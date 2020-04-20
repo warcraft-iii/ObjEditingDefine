@@ -15,7 +15,7 @@ function AbilityDefinitionSlowPoison:setDamagePerSecond(level, value) end
 ---setStackingType
 ---<**Spo4**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionSlowPoison:setStackingType(level, value) end
 
 ---setAttackSpeedFactor

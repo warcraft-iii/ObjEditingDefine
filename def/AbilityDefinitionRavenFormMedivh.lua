@@ -27,7 +27,7 @@ function AbilityDefinitionRavenFormMedivh:setAltitudeAdjustmentDuration(level, v
 ---setMorphingFlags
 ---<**Eme2**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionRavenFormMedivh:setMorphingFlags(level, value) end
 
 ---setAlternateFormUnit

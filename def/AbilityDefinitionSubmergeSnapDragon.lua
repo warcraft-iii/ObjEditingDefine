@@ -21,7 +21,7 @@ function AbilityDefinitionSubmergeSnapDragon:setAltitudeAdjustmentDuration(level
 ---setMorphingFlags
 ---<**Eme2**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionSubmergeSnapDragon:setMorphingFlags(level, value) end
 
 ---setAlternateFormUnit

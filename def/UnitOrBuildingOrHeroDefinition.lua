@@ -82,6 +82,11 @@ function UnitOrBuildingOrHeroDefinition:setTeamColor(data) end
 ---@param data string
 function UnitOrBuildingOrHeroDefinition:setTargetedAs(data) end
 
+---setTarget
+---<**utaa**>
+---@param data string
+function UnitOrBuildingOrHeroDefinition:setTarget(data) end
+
 ---setArtTarget
 ---<**utaa**>
 ---@param data string
@@ -116,6 +121,11 @@ function UnitOrBuildingOrHeroDefinition:setSpeedMaximum(data) end
 ---<**umvs**>
 ---@param data integer
 function UnitOrBuildingOrHeroDefinition:setSpeedBase(data) end
+
+---setSpecial
+---<**uspa**>
+---@param data string
+function UnitOrBuildingOrHeroDefinition:setSpecial(data) end
 
 ---setArtSpecial
 ---<**uspa**>
@@ -881,3 +891,8 @@ function UnitOrBuildingOrHeroDefinition:setAIPlacementRadius(data) end
 ---<**uacq**>
 ---@param data float
 function UnitOrBuildingOrHeroDefinition:setAcquisitionRange(data) end
+
+---setStructuresBuilt
+---<**ubui**>
+---@param data string
+function UnitOrBuildingOrHeroDefinition:setStructuresBuilt(data) end

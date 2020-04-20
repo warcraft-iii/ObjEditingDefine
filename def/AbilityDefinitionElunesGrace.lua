@@ -25,13 +25,19 @@ function AbilityDefinitionElunesGrace:setDeflectDamageTakenSpells(level, value) 
 function AbilityDefinitionElunesGrace:setDeflectDamageTakenPiercing(level, value) end
 
 ---setMagicDamageReduction
----<**Def1**>
+---<**Def5**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionElunesGrace:setMagicDamageReduction(level, value) end
 
 ---setDamageTaken
----<**Def5**>
+---<**Def1**>
 ---@param level integer
 ---@param value float
 function AbilityDefinitionElunesGrace:setDamageTaken(level, value) end
+
+---setDamageDealt
+---<**Def2**>
+---@param level integer
+---@param value float
+function AbilityDefinitionElunesGrace:setDamageDealt(level, value) end

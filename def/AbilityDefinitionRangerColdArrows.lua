@@ -9,7 +9,7 @@ function AbilityDefinitionRangerColdArrows:new(id) end
 ---setStackFlags
 ---<**Hca4**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionRangerColdArrows:setStackFlags(level, value) end
 
 ---setExtraDamage

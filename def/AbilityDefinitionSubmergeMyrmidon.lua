@@ -21,7 +21,7 @@ function AbilityDefinitionSubmergeMyrmidon:setAltitudeAdjustmentDuration(level, 
 ---setMorphingFlags
 ---<**Eme2**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionSubmergeMyrmidon:setMorphingFlags(level, value) end
 
 ---setAlternateFormUnit

@@ -9,7 +9,7 @@ function AbilityDefinitionParasite:new(id) end
 ---setStackingType
 ---<**Poi4**>
 ---@param level integer
----@param value string
+---@param value integer
 function AbilityDefinitionParasite:setStackingType(level, value) end
 
 ---setSummonedUnitDuration
