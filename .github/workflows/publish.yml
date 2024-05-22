@@ -12,16 +12,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Get version
+        id: get_version
+        run: echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\//}
+
       - name: Zip
         run: |
-          echo ${{ github.ref }} > .version
-          zip -q -r ${{ github.ref }}.zip ./def/* .version
+          echo ${{ steps.get_version.outputs.VERSION }} > .version
+          zip -q -r ${{ steps.get_version.outputs.VERSION }}.zip ./def/* .version
 
       - name: Upload Assets
         uses: softprops/action-gh-release@v0.1.7
         if: startsWith(github.ref, 'refs/tags/v')
         with:
-          body: ${{ github.ref }}
+          body: ${{ steps.get_version.outputs.VERSION }}
           files: |
             *.zip
         env:
